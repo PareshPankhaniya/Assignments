@@ -1,0 +1,3 @@
+How Do You Handle Exceptions With Try/Except/Finally In Python? Explain with coding snippets.
+
+When a Python program meets an error, it stops the execution of the rest of the program. An error in Python might be either an error in the syntax of an expression or a Python exception. We will see what an exception is. Also, we will see the difference between a syntax error and an exception in this tutorial. Following that, we will learn about trying and except blocks and how to raise exceptions and make assertions. After that, we will see the Python exceptions list.
